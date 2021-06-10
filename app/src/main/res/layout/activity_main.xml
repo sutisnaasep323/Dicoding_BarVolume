@@ -28,7 +28,7 @@
         />
 
     <EditText
-        android:id="@+id/edt_widht"
+        android:id="@+id/edt_width"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:inputType="numberDecimal"
